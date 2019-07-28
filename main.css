@@ -1,0 +1,50 @@
+body{
+  background-color: lightblue;
+}
+
+#mydivs{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 25px;
+}
+
+.divs{
+  margin: 20px;
+}
+
+
+#divA{
+ height: 500px;
+ width: 500px;
+ background-color: antiquewhite; 
+}
+#divB{
+  height: 500px;
+  width: 500px;
+  background-color: blue; 
+ }
+ #divC{
+  height: 500px;
+  width: 500px;
+  background-color: green; 
+ }
+ #divD{
+  height: 500px;
+  width: 500px;
+  background-color:red; 
+ }
+ #divE{
+  height: 500px;
+  width: 500px;
+  background-color:yellow; 
+ }
+
+ #myFooter{
+   background-color: red;
+   text-align: center;
+   padding: 10px; 
+ }
+
+
+ 
